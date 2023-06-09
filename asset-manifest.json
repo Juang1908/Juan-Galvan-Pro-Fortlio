@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Juan-Galvan-Pro-Fortlio/static/css/main.7e1b2ad5.css",
+    "main.js": "/Juan-Galvan-Pro-Fortlio/static/js/main.bcca9e36.js",
+    "static/media/live.jpg": "/Juan-Galvan-Pro-Fortlio/static/media/live.6536bbc6bb2fe0ba3f5e.jpg",
+    "static/media/scheduler-view.jpg": "/Juan-Galvan-Pro-Fortlio/static/media/scheduler-view.26a47b157f1b2394d2df.jpg",
+    "static/media/team-gen.jpg": "/Juan-Galvan-Pro-Fortlio/static/media/team-gen.8a4d120f7d0cde3011dd.jpg",
+    "static/media/text-editor.jpg": "/Juan-Galvan-Pro-Fortlio/static/media/text-editor.6cc49c90b5f23efa1e4f.jpg",
+    "static/media/market-place.jpg": "/Juan-Galvan-Pro-Fortlio/static/media/market-place.f10d49cc8e88f8c17b23.jpg",
+    "static/media/color-changings.jpg": "/Juan-Galvan-Pro-Fortlio/static/media/color-changings.4d34c4557e835b2e81c3.jpg",
+    "static/media/react.png": "/Juan-Galvan-Pro-Fortlio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Juan-Galvan-Pro-Fortlio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/Juan-Galvan-Pro-Fortlio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/Juan-Galvan-Pro-Fortlio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Juan-Galvan-Pro-Fortlio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Juan-Galvan-Pro-Fortlio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Juan-Galvan-Pro-Fortlio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/jg.png": "/Juan-Galvan-Pro-Fortlio/static/media/jg.18f8aa9c6bb6fd52dc67.png",
+    "static/media/javascript.png": "/Juan-Galvan-Pro-Fortlio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Juan-Galvan-Pro-Fortlio/index.html",
+    "main.7e1b2ad5.css.map": "/Juan-Galvan-Pro-Fortlio/static/css/main.7e1b2ad5.css.map",
+    "main.bcca9e36.js.map": "/Juan-Galvan-Pro-Fortlio/static/js/main.bcca9e36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e1b2ad5.css",
+    "static/js/main.bcca9e36.js"
+  ]
+}
